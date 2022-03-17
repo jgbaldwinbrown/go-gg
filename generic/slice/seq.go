@@ -7,7 +7,7 @@ package slice
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // T is a Go slice value of type []U.

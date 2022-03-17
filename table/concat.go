@@ -7,7 +7,7 @@ package table
 import (
 	"fmt"
 
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 // Concat returns the concatenation of the rows in each matching group

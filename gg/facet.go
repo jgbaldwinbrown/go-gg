@@ -9,9 +9,9 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/table"
 )
 
 // TODO: What if there are already layers? Maybe they should be

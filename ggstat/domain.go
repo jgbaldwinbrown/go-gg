@@ -7,9 +7,9 @@ package ggstat
 import (
 	"math"
 
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/table"
-	"github.com/aclements/go-moremath/stats"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/table"
+	"github.com/jgbaldwinbrown/go-moremath/stats"
 )
 
 // A FunctionDomainer computes the domain over which to evaluate a

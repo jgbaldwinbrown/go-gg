@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/table"
 	"github.com/ajstarks/svgo"
 )
 

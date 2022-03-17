@@ -7,7 +7,7 @@ package slice
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Concat returns the concatenation of all of ss. The types of all of

@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/table"
 )
 
 func ExampleNewTimeScaler() {

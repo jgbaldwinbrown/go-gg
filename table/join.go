@@ -7,7 +7,7 @@ package table
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 // Join joins g1 and g2 on tables with identical group IDs where col1

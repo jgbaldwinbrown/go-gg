@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/table"
 )
 
 // TODO: Split transforms, scalers, and layers into their own packages

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Pivot converts rows of g into columns. label and value must name

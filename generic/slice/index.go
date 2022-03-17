@@ -7,7 +7,7 @@ package slice
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Select returns a slice w such that w[i] = v[indexes[i]].

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // MapTables applies f to each Table in g and returns a new Grouping

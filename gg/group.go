@@ -4,7 +4,7 @@
 
 package gg
 
-import "github.com/aclements/go-gg/table"
+import "github.com/jgbaldwinbrown/go-gg/table"
 
 // TODO: GroupByKey? Would the key function only work on one binding?
 // With a first-class row representation we could pass that.

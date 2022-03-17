@@ -7,8 +7,8 @@ package ggstat
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/table"
 )
 
 // Normalize normalizes each group such that some data point is 1.

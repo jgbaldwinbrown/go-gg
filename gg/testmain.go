@@ -11,10 +11,10 @@ import (
 	"math/rand"
 	"os"
 
-	"github.com/aclements/go-gg/gg"
-	"github.com/aclements/go-gg/ggstat"
-	"github.com/aclements/go-gg/table"
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-gg/gg"
+	"github.com/jgbaldwinbrown/go-gg/ggstat"
+	"github.com/jgbaldwinbrown/go-gg/table"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 func main() {

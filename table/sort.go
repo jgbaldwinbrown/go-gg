@@ -7,7 +7,7 @@ package table
 import (
 	"sort"
 
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 // SortBy sorts each group of g by the named columns. If a column's

@@ -7,7 +7,7 @@ package slice
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Index returns the index of the first instance of val in s, or -1 if

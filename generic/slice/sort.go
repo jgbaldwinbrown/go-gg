@@ -9,7 +9,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // CanSort returns whether the value v can be sorted.

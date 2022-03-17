@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Min returns the minimum value in v. v must either implement

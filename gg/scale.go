@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aclements/go-gg/generic"
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/palette"
-	"github.com/aclements/go-gg/table"
-	"github.com/aclements/go-moremath/scale"
+	"github.com/jgbaldwinbrown/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/palette"
+	"github.com/jgbaldwinbrown/go-gg/table"
+	"github.com/jgbaldwinbrown/go-moremath/scale"
 )
 
 // Continuous -> Interpolatable? Definitely.

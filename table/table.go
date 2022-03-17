@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 // TODO

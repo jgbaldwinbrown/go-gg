@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 var boolType = reflect.TypeOf(false)

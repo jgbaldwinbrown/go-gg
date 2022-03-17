@@ -7,7 +7,7 @@ package gg
 import (
 	"fmt"
 
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/table"
 )
 
 func defaultCols(p *Plot, cols ...*string) {

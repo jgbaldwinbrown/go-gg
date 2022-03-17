@@ -7,7 +7,7 @@ package slice
 import (
 	"reflect"
 
-	"github.com/aclements/go-gg/generic"
+	"github.com/jgbaldwinbrown/go-gg/generic"
 )
 
 // Convert converts each element in from and assigns it to *to. to

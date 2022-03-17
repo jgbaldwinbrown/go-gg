@@ -5,10 +5,10 @@
 package ggstat
 
 import (
-	"github.com/aclements/go-gg/generic/slice"
-	"github.com/aclements/go-gg/table"
-	"github.com/aclements/go-moremath/stats"
-	"github.com/aclements/go-moremath/vec"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/table"
+	"github.com/jgbaldwinbrown/go-moremath/stats"
+	"github.com/jgbaldwinbrown/go-moremath/vec"
 )
 
 // TODO: Default to first (and second) column for X (and Y)?

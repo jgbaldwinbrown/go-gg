@@ -9,8 +9,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/aclements/go-gg/gg/layout"
-	"github.com/aclements/go-gg/table"
+	"github.com/jgbaldwinbrown/go-gg/gg/layout"
+	"github.com/jgbaldwinbrown/go-gg/table"
 	"github.com/ajstarks/svgo"
 )
 

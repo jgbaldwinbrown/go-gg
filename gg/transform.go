@@ -4,7 +4,7 @@
 
 package gg
 
-import "github.com/aclements/go-gg/table"
+import "github.com/jgbaldwinbrown/go-gg/table"
 
 // SortBy sorts each group by the named columns. If a column's type
 // implements sort.Interface, rows will be sorted according to that

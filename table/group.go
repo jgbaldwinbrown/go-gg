@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/aclements/go-gg/generic/slice"
+	"github.com/jgbaldwinbrown/go-gg/generic/slice"
 )
 
 // GroupID identifies a group. GroupIDs form a tree, rooted at
